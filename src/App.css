@@ -1,0 +1,32 @@
+ .mainContent{
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  top:50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+  
+}
+
+.card{
+  box-shadow: 0 14px 18px 0 rgba(0,0,0,0.2);
+  min-width: 40%;
+  min-height: 10%;
+}
+
+.cardSide{
+  padding-left: 5%;
+  text-align: left;
+  min-width: 40%;
+  min-height: 10%;
+}
+hr { 
+  display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 0;
+  margin-right: 15px;
+  border-style: inset;
+  border-width: 1px;
+} 

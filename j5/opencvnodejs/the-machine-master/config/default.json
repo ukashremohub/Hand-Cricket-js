@@ -1,0 +1,13 @@
+{
+  "general": {
+    "generation": "One"
+  },
+  "settings": {
+    "source": "./media/source",
+    "output": "./media/output",
+    "feed": "https://www.aljazeera.com/xml/rss/all.xml",
+    "repositoryUrl": "https://github.com/ekonetzni/ekonetzni.github.io.git",
+    "repositoryPath": "./repo",
+    "deployPath": "img/gen1i" // Path inside the repository
+  }
+}
